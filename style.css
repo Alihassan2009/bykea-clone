@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    font-family: arial;
+    border: border-box;
+}
+.navbar{
+    height: 80px;
+    display: flex;
+    background-color: rgba(235, 217, 217, 0.849);
+    color: green;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.dropdown{
+    display: flex;
+}
+
+.Container-1{
+       display: flex;
+}
+
+
+.add-contact{
+    color: green;
+   
+}
+.add-contact:hover{
+    border: 10px solid green;
+}
+.hero-section{
+    height: 40vh;
+    font-family: Axiforma, sans-serif;
+    font-weight: bolder;
+    color: #02aa31;
+    background-color: rgb(243, 231, 231);
+   
+    align-items: center;
+}
+.container{
+     display: flex;
+     color: black;
+}
+.add-3{
+    height: 50px;
+    display: flex;
+
+}
+.add-ride{
+    font-size: 25.73px;
+    color: #02aa31;
+}
+.add-content3{
+    display: flex;
+    font-size: 17px;
+    align-items: center;
+    font-family: axiforma, Sans-serif;
+}
